@@ -1,4 +1,4 @@
-### Hello, I'm Leonardo Borges
+## Hello, I'm Leonardo Borges
 
 - I’m currently working on my personal projects
 - I’m currently learning Web Development
